@@ -19,7 +19,7 @@ efficiently and effectively perform their duties through the use of
 technology, to better engage their citizens, manage legislative processes,
 reduce waste, and promote government transparency.
 
-#### Senior Platform Engineer - 10/2012 to Present - Hours per week: 40
+#### Senior Platform Engineer - 10/2012 to 07/2019 - Hours per week: 40
 
 Supporting a FedRAMP Moderate certified Software as a Service platform used by
 over 4,000 customers, was part of a team building infrastructure and
