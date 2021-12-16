@@ -2,6 +2,15 @@
 
 ## Experience
 
+### GitLab - Remote - (1500+ employees)
+
+#### Senior Backend Engineer - 07/2019 to Present - Hours per week: 40
+
+##### Supervisor: Nicholas Klick, (608) 216-6598
+##### Okay to contact this Supervisor: Contact me first
+
+---
+
 ### Granicus - San Francisco, CA/Reno, NV/Remote - (450 employees)
 
 The mission of Granicus is to serve federal, state, and local government
